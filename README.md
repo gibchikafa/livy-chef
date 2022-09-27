@@ -14,3 +14,5 @@ To stop the livy server:
 ${LIVY_HOME}/bin/stop-livy.sh
 
 Test commit
+
+Test another commit from local
